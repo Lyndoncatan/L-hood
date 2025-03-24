@@ -1,6 +1,6 @@
 ## Key Features of this E-commerce Platform
 
-This e-commerce platform includes all the essential features you requested:
+This e-commerce platform includes all the essential features :
 
 1. **User Accounts**
 
